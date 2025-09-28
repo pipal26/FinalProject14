@@ -2,5 +2,6 @@ public class Test{
     public static void main(String[] args) {
         System.out.println("Hello, World!");
         System.out.println("Ini dari pandhu");
+        System.out.println("Ini apip");
     }
 }
